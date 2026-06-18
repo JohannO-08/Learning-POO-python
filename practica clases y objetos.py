@@ -10,4 +10,5 @@ personaje3 = Personaje("jhin", "1300", "granada bailarina")
 
 print ("Nombre = " , personaje1.nombre , " Vida = " , personaje1.vida)
 print ("Nombre = " , personaje2.nombre , " Vida = " , personaje2.vida)
-print ("Nombre = " , personaje3.nombre , " Vida = " , personaje3.vida)
+print ("Nombre = " , personaje3.nombre , " Vida = " , personaje3.vida) 
+

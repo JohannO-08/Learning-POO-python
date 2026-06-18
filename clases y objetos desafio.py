@@ -4,7 +4,7 @@ class estudiante:
         self.semestre = semestre
         self.carrera = carrera
         self.promedio = promedio 
-        
+       
 estudiante1 = estudiante("juan", "5to", "informatica", "9.5")
 estudiante2 = estudiante("maria", "3ro", "medicina", "8.7")
 estudiante3 = estudiante("pedro", "7mo", "derecho", "9.0")
